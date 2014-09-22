@@ -1,0 +1,132 @@
+icd_code,icd_desc,cpt_code,cpt_desc,amount
+A00.9,"Cholera, unspecified ",80047,"Basic metabolic panel (Calcium, ionized) ",15.89
+A00.9,"Cholera, unspecified ",80048,"Basic metabolic panel (Calcium, total) ",17.70
+A00.9,"Cholera, unspecified ",80051,Electrolyte panel ,15.07
+A00.9,"Cholera, unspecified ",80053,Comprehensive metabolic panel ,18.64
+A00.9,"Cholera, unspecified ",82040,"Albumin; serum, plasma or whole blood",11.07
+A00.9,"Cholera, unspecified ",82247,Bilirubin; total,13.90
+A00.9,"Cholera, unspecified ",82310,Calcium; total,12.19
+A00.9,"Cholera, unspecified ",82330,Calcium; ionized,31.57
+A00.9,"Cholera, unspecified ",82374,Carbon dioxide (bicarbonate),11.07
+A00.9,"Cholera, unspecified ",82435,Chloride; blood,11.07
+A00.9,"Cholera, unspecified ",82565,Creatinine; blood,11.07
+A00.9,"Cholera, unspecified ",82947,"Glucose; quantitative, blood (except reagent strip)",11.07
+A00.9,"Cholera, unspecified ",84075,"Phosphatase, alkaline;",11.63
+A00.9,"Cholera, unspecified ",84132,"Potassium; serum, plasma or whole blood",11.07
+A00.9,"Cholera, unspecified ",84155,"Protein, total, except by refractometry; serum, plasma or whole blood",13.84
+A00.9,"Cholera, unspecified ",84160,"Protein, total, by refractometry, any source",8.30
+A00.9,"Cholera, unspecified ",84165,"Protein; electrophoretic fractionation and quantitation, serum",31.01
+A00.9,"Cholera, unspecified ",84235,"Receptor assay; endocrine, other than estrogen or progesterone (specify hormone)",68.67
+A00.9,"Cholera, unspecified ",84295,"Sodium; serum, plasma or whole blood",11.07
+A00.9,"Cholera, unspecified ",84450,Transferase; aspartate amino (AST) (SGOT),12.19
+A00.9,"Cholera, unspecified ",84460,Transferase; alanine amino (ALT) (SGPT),12.19
+A00.9,"Cholera, unspecified ",84520,Urea nitrogen; quantitative,11.63
+A00.9,"Cholera, unspecified ",87181,"Susceptibility studies, antimicrobial agent; agar dilution method, per agent",16.06
+A00.9,"Cholera, unspecified ",87184,"Susceptibility studies, antimicrobial agent; disk method, per plate (12 or fewer agents)",17.17
+A00.9,"Cholera, unspecified ",87185,"Susceptibility studies, antimicrobial agent; enzyme detection (eg, beta lactamase), per enzyme",20.09
+A00.9,"Cholera, unspecified ",87186,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution (minimum inhibitory
+ concentration [MIC] or breakpoint), each multi-antimicrobial, per plate",19.94
+A00.9,"Cholera, unspecified ",87187,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution, minimum lethal 
+concentration (MLC), each plate (List separately in addition to code for primary procedure)",19.94
+A00.9,"Cholera, unspecified ",87188,"Susceptibility studies, antimicrobial agent; macrobroth dilution method, each agent",19.94
+A00.9,"Cholera, unspecified ",87190,"Susceptibility studies, antimicrobial agent; mycobacteria, proportion method, each agent",12.74
+A01.00,"Typhoid fever, unspecified",82728,Ferritin,31.57
+A01.00,"Typhoid fever, unspecified",83540,Iron,12.19
+A01.00,"Typhoid fever, unspecified",83550,Iron binding capacity,16.61
+A01.00,"Typhoid fever, unspecified",84466,Transferrin,29.90
+A01.00,"Typhoid fever, unspecified",85610,Prothrombin time;,12.19
+A01.00,"Typhoid fever, unspecified",85730,"Thromboplastin time, partial (PTT); plasma or whole blood",14.40
+A01.00,"Typhoid fever, unspecified",93000,"Electrocardiogram, routine ECG with at least 12 leads; with interpretation and report",39.37
+A01.00,"Typhoid fever, unspecified",93005,"Electrocardiogram, routine ECG with at least 12 leads; tracing only, without interpretation and report",21.88
+A01.00,"Typhoid fever, unspecified",93010,"Electrocardiogram, routine ECG with at least 12 leads; interpretation and report only",16.95
+A01.00,"Typhoid fever, unspecified",93040,"Rhythm ECG, 1-3 leads; with interpretation and report",21.88
+A01.00,"Typhoid fever, unspecified",93041,"Rhythm ECG, 1-3 leads; tracing only without interpretation and report",7.11
+A01.00,"Typhoid fever, unspecified",93042,"Rhythm ECG, 1-3 leads; interpretation and report only",14.77
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",80047,"Basic metabolic panel (Calcium, ionized)",16.89
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",80048,"Basic metabolic panel (Calcium, total)",17.7
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",80051,Electrolyte panel,15.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",80053,Comprehensive metabolic panel,18.64
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82040,"Albumin; serum, plasma or whole blood",11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82247,Bilirubin; total,13.24
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82272,"Blood, occult, by peroxidase activity (eg, guaiac), qualitative, feces, 1-3 simultaneous
+ determinations, performed for other than colorectal neoplasm screening",16.56
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82310,Calcium; total,12.19
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82330,Calcium; ionized,31.57
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82374,Carbon dioxide (bicarbonate),11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82435,Chloride; blood,11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82565,Creatinine; blood,11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",82947,"Glucose; quantitative, blood (except reagent strip)",11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84075,"Phosphatase, alkaline;",11.63
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84132,"Potassium; serum, plasma or whole blood",11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84155,"Protein, total, except by refractometry; serum, plasma or whole blood",13.84
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84160,"Protein, total, by refractometry, any source",8.30
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84165,"Protein; electrophoretic fractionation and quantitation, serum",31.01
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84235,"Receptor assay; endocrine, other than estrogen or progesterone (specify hormone)",68.67
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84295,"Sodium; serum, plasma or whole blood",11.07
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84450,Transferase; aspartate amino (AST) (SGOT),12.19
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84460,Transferase; alanine amino (ALT) (SGPT),12.19
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",84520,Urea nitrogen; quantitative,11.63
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87181,"Susceptibility studies, antimicrobial agent; agar dilution method, per agent (eg, antibiotic gradient strip)",16.06
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87184,"Susceptibility studies, antimicrobial agent; disk method, per plate (12 or fewer agents)",17.17
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87185,"Susceptibility studies, antimicrobial agent; enzyme detection (eg, beta lactamase), per enzyme",25.90
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87186,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution
+ (minimum inhibitory concentration [MIC] or breakpoint), each multi-antimicrobial, per plate",19.94
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87187,"Susceptibility studies, antimicrobial agent; microdilution or agar dilution, minimum lethal 
+concentration (MLC), each plate (List separately in addition to code for primary procedure)",19.94
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87188,"Susceptibility studies, antimicrobial agent; macrobroth dilution method, each agent",19.94
+A05.9,"Bacterial foodborne 
+intoxication, unspecified",87190,"Susceptibility studies, antimicrobial agent; mycobacteria, proportion method, each agent",12.74
+J11.00,"Influenza due to
+ unidentified influenza
+ virus with unspecified
+ type of pneumonia",94760,Noninvasive ear or pulse oximetry for oxygen saturation; single determination,13.13
+J11.00,"Influenza due to
+ unidentified influenza
+ virus with unspecified
+ type of pneumonia",94761,"Noninvasive ear or pulse oximetry for oxygen saturation; multiple determinations (eg, during exercise)",33.37
+J15.9,Unspecified bacterial pneumonia,82947,"Glucose; quantitative, blood (except reagent strip)",11.07
+J15.9,Unspecified bacterial pneumonia,82948,"Glucose; blood, reagent strip",8.30
+J15.9,Unspecified bacterial pneumonia,82962,"Glucose, blood by glucose monitoring device(s) cleared by the FDA specifically for home use",8.30
+J15.9,Unspecified bacterial pneumonia,86689,"Antibody; HTLV or HIV antibody, confirmatory test (eg, Western Blot)",45.42
+J15.9,Unspecified bacterial pneumonia,86701,Antibody; HIV-1,19.61
+J15.9,Unspecified bacterial pneumonia,86702,Antibody; HIV-2,42.64
+J15.9,Unspecified bacterial pneumonia,86703,"Antibody; HIV-1 and HIV-2, single result",29.36
+J15.9,Unspecified bacterial pneumonia,87390,"Infectious agent antigen detection by enzyme immunoassay technique, qualitative or 
+semiquantitative, multiple-step method; HIV-1",38.52
+J15.9,Unspecified bacterial pneumonia,87391,"Infectious agent antigen detection by enzyme immunoassay technique, qualitative or 
+semiquantitative, multiple-step method; HIV-2",38.53
+J15.9,Unspecified bacterial pneumonia,87534,"Infectious agent detection by nucleic acid (DNA or RNA); HIV-1, direct probe technique",43.78
+J15.9,Unspecified bacterial pneumonia,87535,"Infectious agent detection by nucleic acid (DNA or RNA); HIV-1, amplified probe technique,
+ includes reverse transcription when performed",53.55
+J15.9,Unspecified bacterial pneumonia,87537,"Infectious agent detection by nucleic acid (DNA or RNA); HIV-2, direct probe technique",43.78
+J15.9,Unspecified bacterial pneumonia,87538,"Infectious agent detection by nucleic acid (DNA or RNA); HIV-2, amplified probe
+ technique, includes reverse transcription when performed",53.55
